@@ -50,12 +50,17 @@ This project is a web-based application that helps users manage their financial 
     mongod --dbpath /path/to/your/database
     ```
 
-5. Run the application:
+5. Navigate to the js directory:
+    ```bash
+    cd js
+    ```
+
+6. Run the application:
     ```bash
     node server.js
     ```
 
-6. Open your browser and navigate to:
+7. Open your browser and navigate to:
     ```
     http://localhost:3000
     ```
